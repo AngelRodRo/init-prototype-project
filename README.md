@@ -22,8 +22,8 @@ We are going to use SCRUM with sprints, epics, stories, tasks even bugs. For mor
 
 For our project flow, We recommend this tools:
 
-- Trello: It's a tool to be organized with cards and boards. It's useful for low cost projects without use complex software for assign task, bugs, stories, etc. https://trello.com
-- Slack: It's a very useful productivity software for teammates communictation without distractions. https://slack.com
+- **Trello**: It's a tool to be organized with cards and boards. It's useful for low cost projects without use complex software for assign task, bugs, stories, etc. https://trello.com
+- **Slack**: It's a very useful productivity software for teammates communictation without distractions. https://slack.com
 
 # Git branching
 
