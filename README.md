@@ -1,6 +1,6 @@
 # init-prototype-project
 
-# Walktrough for start a project
+# Walktrough for start a software project
 
 This guide will explain how to start a simple project considerating agile process with SCRUM for low cost projects and small teams.
 
@@ -12,33 +12,31 @@ We'll considerate the next points:
 - Software utils for productivity with teams
 - Recommendations
 
-
-For init a project with deployment process. In this guide will show steps for complete a project with good practices.
-For this sample will use Vue, Express and Heroku like a Paas. It means will be use a JS programming.
+Also, we're creating bash scripts for automatization common process like deploy and project creation. 
 
 # Agile Process
 
-
-
-
+We are going to use SCRUM with sprints, epics, stories, tasks even bugs. For more details check this: https://www.scrum.org/resources/what-is-scrum
 
 # Productivity Tools
 
 For our project flow, We recommend this tools:
 
-- Trello: For low cost projects without use complex software for assign task, bugs, stories, etc. (https://trello.com/) 
-- Jira: (https://www.atlassian.com/software/jira)
-- Slack: It's a very useful productivity software for teammates communictation without distractions. https://slack.com/intl/es/
-
-# Software programming requirements
-
-- Vue CLI
-- Express generator
+- Trello: It's a tool to be organized with cards and boards. It's useful for low cost projects without use complex software for assign task, bugs, stories, etc. https://trello.com
+- Slack: It's a very useful productivity software for teammates communictation without distractions. https://slack.com
 
 # Git branching
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
-- dev
-- stage
-- master
+For this sample we're going to use theses branches:
+
+- **dev**: For develop the new features in the application for the FE and BE
+- **stage**: Pre-realease for test new features and deploy to production
+- **master**: For production purposes, it's the main branch. 
+
+
+# Software programming requirements
+
+- Vue CLI
+- Express generator
