@@ -38,5 +38,6 @@ For this sample we're going to use theses branches:
 
 # Software programming requirements
 
-- Vue CLI
-- Express generator
+- Nodejs: https://nodejs.org/
+- Vue CLI: https://cli.vuejs.org/
+- Express generator: https://www.npmjs.com/package/express-generator
