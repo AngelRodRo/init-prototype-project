@@ -4,13 +4,17 @@
 
 This guide will explain how to start a simple project considerating agile process with SCRUM for low cost projects and small teams.
 
-We'll considerate the next points:
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
 
-- Start project samples with Vue and Express (Front-end and Back-end)
-- Create Heroku apps for testing
-- Git branching
-- Software utils for productivity with teams
-- Recommendations
+- [Agile Process](#agile-process)
+- [Git Branching](#git-branching)
+- [Productivity](#productivity)
+  - [Tools](#tools)
+- [Sample projects](#sample-projects)
+  - [Requirements](#requirements)
+- [Recommendations](#recommendations)
+<!-- markdown-toc end -->
 
 Also, we're creating bash scripts for automatization common process like deploy and project creation. 
 
@@ -18,7 +22,9 @@ Also, we're creating bash scripts for automatization common process like deploy 
 
 We are going to use SCRUM with sprints, epics, stories, tasks even bugs. For more details check this: https://www.scrum.org/resources/what-is-scrum
 
-# Productivity Tools
+## Productivity 
+
+# Tools
 
 For our project flow, We recommend this tools:
 
@@ -36,7 +42,9 @@ For this sample we're going to use theses branches:
 - **master**: For production purposes, it's the main branch. 
 
 
-# Software programming requirements
+# Sample Projects
+
+## Requirements
 
 - Nodejs: https://nodejs.org/
 - Vue CLI: https://cli.vuejs.org/
