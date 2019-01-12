@@ -1,4 +1,4 @@
-# init-prototype-project
+# Starter Kit Project
 
 # Walktrough for start a software project
 
