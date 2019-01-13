@@ -58,8 +58,8 @@ For that reason, we need to buy a domain or configurate a dns for specify each e
 # Environment Variables
 
 For defined some urls o some static assets, it's necessary to create some node env variables, for example:
-- NODE_ENV: it will useful for defined in what environment is running.
-- OTHER_ENV_VARIABLES: We can defined some other variables for some services. Example: amazon, google, etc. In order to organize each service according to the environment need.
+- **NODE_ENV:** it will useful for defined in what environment is running.
+- **OTHER_ENV_VARIABLES:** We can defined some other variables for some services. Example: amazon, google, etc. In order to organize each service according to the environment need.
 
 
 # Sample Projects
