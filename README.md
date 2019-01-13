@@ -45,13 +45,13 @@ From dev branch will create new branches for new features. We're using the next 
 
 # Environment applications
 
-For each main we'll create a Heroku application, the url will be according to the branch, for example: 
+For each brach we'll create a Heroku application, the url will be according to the branch, for example: 
 
 - **dev.myproject.com** 
 - **stage.myproject.com**
 - **myproject.com**
 
-The firts options, will be identify according to ur IP in order to avoid some user can access to development application environment. It will be specify in next points.
+The firts options, will be identify according to IP in order to avoid some user can access to development application environment. It will be specify in next points.
 
 For that reason, we need to buy a domain or configurate a dns for specify each environment.
 
