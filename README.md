@@ -74,8 +74,8 @@ In order to apply, all knowledges described in this walktrough, We are going to 
 
 ## Scripts to run
 
-- create-sample-projects.sh: This script will create 2 projects with the same name adding the prefix FE or BE.
-- create-git-branching.sh: This script will create branches for dev, stage and master. According to the classic branching strategy. **NOTE**: This require some permissions from github before continue.
-- deploy-projects.sh: This script will create heroku apps. **NOTE**: This require some permissions from heroku before continue
+- **create-sample-projects.sh**: This script will create 2 projects with the same name adding the prefix FE or BE.
+- **create-git-branching.sh**: This script will create branches for dev, stage and master. According to the classic branching strategy. **NOTE**: This require some permissions from github before continue.
+- **deploy-projects.sh**: This script will create heroku apps. **NOTE**: This require some permissions from heroku before continue
 
 
