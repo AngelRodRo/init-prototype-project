@@ -79,3 +79,4 @@ In order to apply, all knowledges described in this walktrough, We are going to 
 - **deploy-projects.sh**: This script will create heroku apps. **NOTE**: This require some permissions from heroku before continue
 
 
+TO BE CONTINUED...
