@@ -1,8 +1,7 @@
-# Starter Kit Project
 
 # Walktrough for start a software project
 
-This guide will explain how to start a simple project considerating agile process with SCRUM for low cost projects and small teams.
+This guide will explain how to start a simple project considerating agile process with SCRUM for low cost projects and small teams. All tools in this walkthrough are free, for that reason this guide it's for starter project or prototypes in order to get a value to the dev team.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -11,6 +10,7 @@ This guide will explain how to start a simple project considerating agile proces
 - [Git Branching](#git-branching)
 - [Productivity](#productivity)
   - [Tools](#tools)
+  - [Workflow](#workflow)
 - [Sample projects](#sample-projects)
   - [Requirements](#requirements)
 - [Recommendations](#recommendations)
@@ -30,6 +30,11 @@ For our project flow, We recommend this tools:
 
 - **Trello**: It's a tool to be organized with cards and boards. It's useful for low cost projects without use complex software for assign task, bugs, stories, etc. https://trello.com
 - **Slack**: It's a very useful productivity software for teammates communictation without distractions. https://slack.com
+- **Google calendar**: It's a very simple calendar for schedule some events. It's useful for set a meeting for daily scrums or standups.
+
+## Workflow
+
+1. Trello
 
 # Git branching
 
