@@ -1,8 +1,7 @@
-# Starter Kit Project
 
 # Walktrough for start a software project
 
-This guide will explain how to start a simple project considerating agile process with SCRUM for low cost projects and small teams.
+This guide will explain how to start a simple project considerating agile process with SCRUM for low cost projects and small teams. All tools in this walkthrough are free, for that reason this guide it's for starter project or prototypes in order to get a value to the dev team.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -11,6 +10,7 @@ This guide will explain how to start a simple project considerating agile proces
 - [Git Branching](#git-branching)
 - [Productivity](#productivity)
   - [Tools](#tools)
+  - [Workflow](#workflow)
 - [Sample projects](#sample-projects)
   - [Requirements](#requirements)
 - [Recommendations](#recommendations)
@@ -30,6 +30,11 @@ For our project flow, We recommend this tools:
 
 - **Trello**: It's a tool to be organized with cards and boards. It's useful for low cost projects without use complex software for assign task, bugs, stories, etc. https://trello.com
 - **Slack**: It's a very useful productivity software for teammates communictation without distractions. https://slack.com
+- **Google calendar**: It's a very simple calendar for schedule some events. It's useful for set a meeting for daily scrums or standups.
+
+## Workflow
+
+1. Trello
 
 # Git branching
 
@@ -58,8 +63,8 @@ For that reason, we need to buy a domain or configurate a dns for specify each e
 # Environment Variables
 
 For defined some urls o some static assets, it's necessary to create some node env variables, for example:
-- NODE_ENV: it will useful for defined in what environment is running.
-- OTHER_ENV_VARIABLES: We can defined some other variables for some services. Example: amazon, google, etc. In order to organize each service according to the environment need.
+- **NODE_ENV:** it will useful for defined in what environment is running.
+- **OTHER_ENV_VARIABLES:** We can defined some other variables for some services. Example: amazon, google, etc. In order to organize each service according to the environment need.
 
 
 # Sample Projects
@@ -74,8 +79,9 @@ In order to apply, all knowledges described in this walktrough, We are going to 
 
 ## Scripts to run
 
-- create-sample-projects.sh: This script will create 2 projects with the same name adding the prefix FE or BE.
-- create-git-branching.sh: This script will create branches for dev, stage and master. According to the classic branching strategy. **NOTE**: This require some permissions from github before continue.
-- deploy-projects.sh: This script will create heroku apps. **NOTE**: This require some permissions from heroku before continue
+- **create-sample-projects.sh**: This script will create 2 projects with the same name adding the prefix FE or BE.
+- **create-git-branching.sh**: This script will create branches for dev, stage and master. According to the classic branching strategy. **NOTE**: This require some permissions from github before continue.
+- **deploy-projects.sh**: This script will create heroku apps. **NOTE**: This require some permissions from heroku before continue
 
 
+TO BE CONTINUED...
