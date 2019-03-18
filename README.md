@@ -11,6 +11,7 @@ This guide will explain how to start a simple project considerating agile proces
 - [Productivity](#productivity)
   - [Tools](#tools)
   - [Workflow](#workflow)
+- [Versioning](#versioning)
 - [Sample projects](#sample-projects)
   - [Requirements](#requirements)
 - [Recommendations](#recommendations)
@@ -65,6 +66,12 @@ For that reason, we need to buy a domain or configurate a dns for specify each e
 For defined some urls o some static assets, it's necessary to create some node env variables, for example:
 - **NODE_ENV:** it will useful for defined in what environment is running.
 - **OTHER_ENV_VARIABLES:** We can defined some other variables for some services. Example: amazon, google, etc. In order to organize each service according to the environment need.
+
+# Versioning
+
+A good software development process is about apply changes with an order. Identifying each change and resolving a new version according to the change, in that way we can get a historic records of each deployment and major/minor change.
+
+Semantic Version (https://semver.org/) is a good approach for get a versioning process according to our needs.
 
 
 # Sample Projects
