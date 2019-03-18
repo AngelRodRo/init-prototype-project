@@ -35,7 +35,9 @@ For our project flow, We recommend this tools:
 
 ## Workflow
 
-1. Trello
+1. Trello: Using tag like an identifier, for example: MP-0001. This convention has two parts: <ProjectName>-<Numeric Secuence>. In this way, it's possible identify each task or story in the process.
+2. Slack: Using channel for publish PRs or even using a integration like https://slack.github.com/ is possible get a more readable software process publish. Our coworkers are able to know when and why theses PRs is created or updated.
+
 
 # Git branching
 
