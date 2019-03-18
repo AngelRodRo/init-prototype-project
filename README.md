@@ -49,7 +49,10 @@ For this sample we're going to use theses branches:
 - **stage**: Pre-realease for test new features and deploy to production
 - **master**: For production purposes, it's the branch for users or costumers. 
 
-From dev branch will create new branches for new features. We're using the next nomenclature for defined a new feature branch: <ID>-<number>. For example: **MyProject-0001**, so, the next feature will be **MyProject-0002**, and so. 
+From dev branch will create new branches for new features. We're using the next nomenclature for defined a new feature branch: <ID>-<number>. 
+
+
+For example: **MyProject-0001**, so, the next feature will be **MyProject-0002**, and so. 
 
 # Environment applications
 
